@@ -31,16 +31,3 @@
     width: 6.35em;
     max-width: 17.5em;
 }
-
-#contenido nav{
-    text-align: right;
-    width: 100%;
-	height: 2em;
-    background: #0264fb; 
-	color:#fff;
-
-	position: fixed;
-	top: 0;
-    left: 0;
-	z-index: 100;
-}
